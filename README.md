@@ -1,3 +1,7 @@
+This is code only
+
+build version is build-trello has a seprate read me
+
 # trello-clone-vue
 
 ## Project setup
